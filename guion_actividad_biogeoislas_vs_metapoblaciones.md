@@ -15,7 +15,7 @@ Esta tarea tiene los siguientes objetivos disciplinares:
   + Relacionar ambos conceptos y provocar la emergencia de nuevo conocimiento sobre los niveles de organización a los que se refieren ambas teorías.
   + Reflexionar sobre la utilidad de las teorías ecológicas para generar conocimiento abstracto sobre el funcionamiento de los sistemas biológicos.
   
-+ Competencales: Objetivos relacionados con competencias genéricas
++ Competenciales: Objetivos relacionados con competencias genéricas
 
   + Mejorar la habilidad de los estudiantes para redactar textos.
   + Entrenar la capacidad de reflexión y análisis de información.
