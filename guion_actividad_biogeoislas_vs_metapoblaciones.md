@@ -59,8 +59,8 @@ En el moodle hay una rúbrica (pincha [aquí](https://es.wikipedia.org/wiki/R%C3
 
 Para completar esta tarea con éxito, te recomiendo que repases los siguientes contenidos que están en el moodle:
 
-* [Guión](https://aprendiendo-cosas.github.io/Te_comunidades_biogeo_islas_ecologia_ccaa/guion_metapoblaciones.html) de clase sobre las metapoblaciones.
-* [Guión](https://aprendiendo-cosas.github.io/Te_comunidades_biogeo_islas_ecologia_ccaa/guion_comunidades_biogeografia_islas.html) de clase sobre biogeografía de islas.
+* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2020-2021/guion_metapoblaciones.html) de clase sobre las metapoblaciones.
+* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2020-2021/guion_comunidades_biogeografia_islas.html) de clase sobre biogeografía de islas.
 * [Video](https://bioteoria.wordpress.com/2018/05/07/metapoblaciones/) de Omar Flores describiendo ambos marcos conceptuales.
 
 
