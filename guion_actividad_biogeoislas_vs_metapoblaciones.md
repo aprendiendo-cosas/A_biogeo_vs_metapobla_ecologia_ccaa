@@ -1,6 +1,6 @@
 # Instrucciones para la realización del ejercicio denominado "Comparación entre la biogeografía de islas y la teoría de metapoblaciones"
 
-> + **_Versión_**: 2.0.
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
@@ -8,14 +8,14 @@
 
 ## Objetivos 
 
-Esta tarea tiene los siguientes objetivos disciplinares:
+Esta tarea tiene los siguientes objetivos:
 
 + Disciplinares: Habilidades o conocimientos relacionados con la ecología que se pretende que adquieran los estudiantes al realizar la tarea propuesta:
   + Afianzar los conocimientos adquiridos sobre metapoblaciones y sobre biogeografía de islas.
   + Relacionar ambos conceptos y provocar la emergencia de nuevo conocimiento sobre los niveles de organización a los que se refieren ambas teorías.
   + Reflexionar sobre la utilidad de las teorías ecológicas para generar conocimiento abstracto sobre el funcionamiento de los sistemas biológicos.
   
-+ Competenciales: Objetivos relacionados con competencias genéricas
++ Instrumentales: Objetivos relacionados con competencias genéricas
 
   + Mejorar la habilidad de los estudiantes para redactar textos.
   + Entrenar la capacidad de reflexión y análisis de información.
@@ -27,16 +27,16 @@ Esta tarea tiene los siguientes objetivos disciplinares:
 La siguiente lista muestra los principales requisitos que ha de cumplir el trabajo:
 
 + El texto deberá de tener como máximo dos caras de A4 (unas 800 palabras)
-
 + A modo de guía, ten en cuenta las siguientes preguntas. No se trata de que las contestes literalmente, sino que las uses como guía para tu argumentación:
 
   + ¿Sirven ambos conceptos (biogeografía de islas y metapoblaciones) para comprender el mismo proceso ecológico?
   + ¿Ponen el foco las dos en los mismos niveles de organización de la vida?
   + Intenta describirlos  indicando las diferencias y similitudes que identifiques. 
-
 + Incluye referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción.
 
-  
+Sube tu texto en formato procesador de texto a [este](https://www.turnitin.com/t_submit.asp?r=47.3269423709784&svr=27&lang=es&aid=119176061) enlace de Turnitin.
+
+
 
 ## Criterios de evaluación
 
@@ -59,8 +59,8 @@ En el moodle hay una rúbrica (pincha [aquí](https://es.wikipedia.org/wiki/R%C3
 
 Para completar esta tarea con éxito, te recomiendo que repases los siguientes contenidos que están en el moodle:
 
-* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2020-2021/guion_metapoblaciones.html) de clase sobre las metapoblaciones.
-* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2020-2021/guion_comunidades_biogeografia_islas.html) de clase sobre biogeografía de islas.
+* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2021-2022/guion_metapoblaciones.html) de clase sobre las metapoblaciones.
+* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2021_2022/guion_comunidades_biogeografia_islas.html) de clase sobre biogeografía de islas. 
 * [Video](https://bioteoria.wordpress.com/2018/05/07/metapoblaciones/) de Omar Flores describiendo ambos marcos conceptuales.
 
 
