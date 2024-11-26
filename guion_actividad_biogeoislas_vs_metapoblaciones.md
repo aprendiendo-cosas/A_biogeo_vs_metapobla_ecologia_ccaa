@@ -36,7 +36,7 @@ La siguiente lista muestra los principales requisitos que ha de cumplir el traba
   + ¿Ponen el foco las dos en los mismos niveles de organización de la vida?
   + Intenta describirlos  indicando las diferencias y similitudes que identifiques. 
 + Incluye referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción.
-+ Es imprescindible que incluyas en el texto los enlaces de las conversaciones que tengas con cualquier IA para abordar esta actividad. Recuerda que nos ceñimos a [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas de uso de estas herramientas. 
++ Es imprescindible que incluyas en el texto los enlaces de las conversaciones que tengas con cualquier IA para abordar esta actividad. Recuerda que nos ceñimos a [estas](https://raw.githack.com/aprendiendo-cosas/competencias_transversales/main/normas_IA/normas_IA.html) normas de uso de estas herramientas. 
 
 Sube tu texto en formato procesador de texto a [este](https://www.turnitin.com/t_submit.asp?lang=en_us&aid=160608828) enlace de Turnitin.
 
@@ -50,7 +50,7 @@ Para evaluar el texto tendré en cuenta los siguientes criterios:
 + Conexión con los contenidos de la asignatura: Evaluaré hasta qué punto lo que cuentas está relacionado con lo que pido en el enunciado del ejercicio.
 + Referencias externas: También se evaluará en qué medida lo que escribes está bien conectado con artículos, libros o cualquier otra fuente de información (incluídas las IAs) distintas a las que suminstro en el enunciado.
 
-Así que, pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión. Recuerda que, si usas herramientas de IA, debes de cumplir escrupulosamente [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
+Así que, pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión. Recuerda que, si usas herramientas de IA, debes de cumplir escrupulosamente [estas](https://raw.githack.com/aprendiendo-cosas/competencias_transversales/main/normas_IA/normas_IA.html) normas. 
 
 Iré revisando las entregas que vayas realizando y te daré comentarios con mis impresiones. 
 
