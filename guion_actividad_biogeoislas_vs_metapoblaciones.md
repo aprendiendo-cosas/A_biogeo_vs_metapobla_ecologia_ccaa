@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Una hora de trabajo en clase.
 
-
+prueba iMac borrar
 
 ## Objetivos 
 
