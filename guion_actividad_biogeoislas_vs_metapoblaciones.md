@@ -43,7 +43,7 @@ Esta pregunta es importante porque su respuesta nos permitirá mejorar la capaci
 
 
 
-![biogeoislas](https://raw.githubusercontent.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/main/imagenes/islas_metapoblaciones_1.png)
+![biogeoislas](https://raw.githubusercontent.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/main/imagenes/biogeografia_islas.png)
 
 
 
