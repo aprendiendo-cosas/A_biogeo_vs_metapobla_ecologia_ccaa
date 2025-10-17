@@ -43,7 +43,7 @@ Esta pregunta es importante porque su respuesta nos permitirá mejorar la capaci
 
 
 
-![biogeoislas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2022-2023/imagenes/biogeografia_islas.png)
+![biogeoislas](https://raw.githubusercontent.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/main/imagenes/islas_metapoblaciones_1.png)
 
 
 
@@ -64,9 +64,13 @@ Dedicaremos unos 10' de la clase a reflexionar sobre la pregunta. Escribiremos l
 Para completar esta tarea con éxito, te recomiendo que repases los siguientes contenidos que están en el moodle:
 
 * [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2024_2025/guion_metapoblaciones.html) de clase sobre las metapoblaciones.
-* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2024_2025/guion_comunidades_biogeografia_islas.html) de clase sobre biogeografía de islas. 
+* [Guión](https://rawcdn.githack.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2025_2026/guion_comunidades_biogeografia_islas.html) de clase sobre biogeografía de islas. 
 * [Video](https://bioteoria.wordpress.com/2018/05/07/metapoblaciones/) de Omar Flores describiendo ambos marcos conceptuales.
 * También recomiendo jugar un poco con [esta](http://virtualbiologylab.org/ModelsHTML5/IslandBiogeography/IslandBiogeography.html) animación que habla sobre biogeografía de islas. Puede aportar información interesante. 
+
+
+
+
 
 
 ****
