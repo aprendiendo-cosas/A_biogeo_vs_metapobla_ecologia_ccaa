@@ -1,10 +1,10 @@
-# Instrucciones para la realización del ejercicio denominado "Comparación entre la biogeografía de islas y la teoría de metapoblaciones"
+# Comparación entre la biogeografía de islas y la teoría de metapoblaciones
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 2 horas de trabajo individual.
+> + **Duración**: Una hora de trabajo en clase.
 
 
 
@@ -19,40 +19,44 @@ Esta tarea tiene los siguientes objetivos:
   
 + Instrumentales: Objetivos relacionados con competencias genéricas
 
-  + Mejorar la habilidad de los estudiantes para redactar textos.
+  + Mejorar la habilidad de los estudiantes para expresar oralmente su conocimiento.
   + Entrenar la capacidad de reflexión y análisis de información.
   + Entrenar el manejo de herramientas de inteligencia artificial.
   
   
 
-## Características o requisitos de la tarea
+## Formulación del problema
 
-La siguiente lista muestra los principales requisitos que ha de cumplir el trabajo:
-
-+ El texto deberá de tener como máximo dos caras de A4 (unas 800 palabras)
-+ A modo de guía, ten en cuenta las siguientes preguntas. No se trata de que las contestes literalmente, sino que las uses como guía para tu argumentación:
-
-  + ¿Sirven ambos conceptos (biogeografía de islas y metapoblaciones) para comprender el mismo proceso ecológico?
-  + ¿Ponen el foco las dos en los mismos niveles de organización de la vida?
-  + Intenta describirlos  indicando las diferencias y similitudes que identifiques. 
-+ Incluye referencias a los documentos (videos, artículos, libros, etc.) que hayas usado para la redacción.
-+ Es imprescindible que incluyas en el texto los enlaces de las conversaciones que tengas con cualquier IA para abordar esta actividad. Recuerda que nos ceñimos a [estas](https://raw.githack.com/aprendiendo-cosas/competencias_transversales/main/normas_IA/normas_IA.html) normas de uso de estas herramientas. 
-
-Sube tu texto en formato procesador de texto a [este](https://www.turnitin.com/t_submit.asp?lang=en_us&aid=160608828) enlace de Turnitin.
+En las últimas semanas hemos estudiado dos conceptos aparentemente relacionados: las metapoblaciones y la biogeografía de islas. Si no los entendemos bien, podremos confundirlos. En esta tarea vamos a trabajar analizando las diferencias y similitudes entre ambos. Nos formulamos las siguientes preguntas:
 
 
 
-## Criterios de evaluación
+>¿qué relación hay entre la teoría de la biogeografía de islas y las metapoblaciones? ¿Sirven ambos conceptos para comprender el mismo proceso ecológico?, ¿ponen el foco las dos en los mismos niveles de organización de la vida?
 
-Para evaluar el texto tendré en cuenta los siguientes criterios: 
 
-+ Legibilidad. Analizaré en qué medida tu contribución se lee fácilmente. Es decir, veré si tiene un hilo argumental coherente, usas construcciones gramaticales correctas, tienes buena ortografía, etc.
-+ Conexión con los contenidos de la asignatura: Evaluaré hasta qué punto lo que cuentas está relacionado con lo que pido en el enunciado del ejercicio.
-+ Referencias externas: También se evaluará en qué medida lo que escribes está bien conectado con artículos, libros o cualquier otra fuente de información (incluídas las IAs) distintas a las que suminstro en el enunciado.
 
-Así que, pon especial atención en la redacción y en la justificación de tus respuestas. Añade las referencias bibliográficas que hayas usado para sustentar tu reflexión. Recuerda que, si usas herramientas de IA, debes de cumplir escrupulosamente [estas](https://raw.githack.com/aprendiendo-cosas/competencias_transversales/main/normas_IA/normas_IA.html) normas. 
+Esta pregunta es importante porque su respuesta nos permitirá mejorar la capacidad de trazar "puentes" entre conceptos aparentemente diferentes. También nos ayuda a constatar que las teorías y conceptos que vemos son constructos intelectuales. Abordamos esta serie de preguntas recurriendo a dos imágenes que usamos previamente para describir los conceptos de metapoblación y de biogeografía de islas, respectivamente:
 
-Iré revisando las entregas que vayas realizando y te daré comentarios con mis impresiones. 
+
+
+![metapoblacion](https://raw.githubusercontent.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/main/imagenes/metapoblaciones.png)
+
+
+
+![biogeoislas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_comunidades_biogeo_islas_ecologia_ccaa/2022-2023/imagenes/biogeografia_islas.png)
+
+
+
+
+## Abordaje en clase y soluciones encontradas
+
+Dedicaremos unos 10' de la clase a reflexionar sobre la pregunta. Escribiremos las posibles ideas o aproximaciones que se nos ocurran en un papel o en formato digital. Durante el resto de la sesión, expondremos nuestras propuestas. Se describen a continuación:
+
+
+
+
+
+
 
 
 ## Recomendaciones
